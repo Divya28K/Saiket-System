@@ -1,0 +1,17 @@
+{
+  "name": "mysql-crud-operations-with-nodejs-and-reactjs-main",
+  "version": "1.0.0",
+  "description": "<h1>MySQL CRUD - Nodejs, Reactjs</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
